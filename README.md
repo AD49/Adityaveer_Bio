@@ -12,7 +12,8 @@ Currently exploring real-world projects to sharpen my skills in data wrangling, 
 - Interactive Dashboard 
 
  **Recent Projects**:  
-- Retail Sales Dashboard for Vrinda Store  
+- Retail Sales Dashboard for Vrinda Store
+- Bike-Sales-Dashboard-using-MS-Excel 
  
  **Currently Learning**:  
 - Predictive Analytics & Python
@@ -21,4 +22,4 @@ Currently exploring real-world projects to sharpen my skills in data wrangling, 
 
  **Let's Connect**:  
 [Email](adityaveer361@gmail.com)
-[LinkedIn](www.linkedin.com/in/adityaveer-singh-yadav-688209373) 
+[LinkedIn](https://www.linkedin.com/in/adityaveer-singh-yadav-688209373/) 
